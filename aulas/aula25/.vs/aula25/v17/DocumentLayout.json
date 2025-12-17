@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Arquivos\\codigos\\CSharp\\csharp\\aula25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68EAEA99-3AF2-4AD6-93FA-4006FA2C55CA}|aula25\\aula25.csproj|e:\\arquivos\\codigos\\csharp\\csharp\\aula25\\aula25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EAEA99-3AF2-4AD6-93FA-4006FA2C55CA}|aula25\\aula25.csproj|solutionrelative:aula25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EAEA99-3AF2-4AD6-93FA-4006FA2C55CA}|aula25\\aula25.csproj|e:\\arquivos\\codigos\\csharp\\csharp\\aula25\\aula25\\bankterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EAEA99-3AF2-4AD6-93FA-4006FA2C55CA}|aula25\\aula25.csproj|solutionrelative:aula25\\bankterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68EAEA99-3AF2-4AD6-93FA-4006FA2C55CA}|aula25\\aula25.csproj|e:\\arquivos\\codigos\\csharp\\csharp\\aula25\\aula25\\bankoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68EAEA99-3AF2-4AD6-93FA-4006FA2C55CA}|aula25\\aula25.csproj|solutionrelative:aula25\\bankoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 340,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankOperations.cs",
+              "DocumentMoniker": "E:\\Arquivos\\codigos\\CSharp\\csharp\\aula25\\aula25\\BankOperations.cs",
+              "RelativeDocumentMoniker": "aula25\\BankOperations.cs",
+              "ToolTip": "E:\\Arquivos\\codigos\\CSharp\\csharp\\aula25\\aula25\\BankOperations.cs",
+              "RelativeToolTip": "aula25\\BankOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:21:17.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankTerminal.cs",
+              "DocumentMoniker": "E:\\Arquivos\\codigos\\CSharp\\csharp\\aula25\\aula25\\BankTerminal.cs",
+              "RelativeDocumentMoniker": "aula25\\BankTerminal.cs",
+              "ToolTip": "E:\\Arquivos\\codigos\\CSharp\\csharp\\aula25\\aula25\\BankTerminal.cs",
+              "RelativeToolTip": "aula25\\BankTerminal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T17:21:14.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Arquivos\\codigos\\CSharp\\csharp\\aula25\\aula25\\Program.cs",
+              "RelativeDocumentMoniker": "aula25\\Program.cs",
+              "ToolTip": "E:\\Arquivos\\codigos\\CSharp\\csharp\\aula25\\aula25\\Program.cs",
+              "RelativeToolTip": "aula25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:03:09.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

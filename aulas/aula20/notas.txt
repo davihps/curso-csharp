@@ -1,0 +1,8 @@
+POO = Programação orientada a objetos
+-> Baseada em interações do mundo real com a programação
+-> Conceito de programar que visa aplicar a programação no 
+nosso dia a dia e nas nossas interações com a realidade
+
+Objeto -> Entidade do mundo real         Ex: (carro)
+-> Atributos: Características do objeto (azul, fusca, 2020)
+-> Métodos: Funções do objeto           (movimentar, ligar, acelerar)

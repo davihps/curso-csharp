@@ -1,0 +1,14 @@
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\bin\Debug\net9.0\aula09.exe
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\bin\Debug\net9.0\aula09.deps.json
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\bin\Debug\net9.0\aula09.runtimeconfig.json
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\bin\Debug\net9.0\aula09.dll
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\bin\Debug\net9.0\aula09.pdb
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\obj\Debug\net9.0\aula09.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\obj\Debug\net9.0\aula09.AssemblyInfoInputs.cache
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\obj\Debug\net9.0\aula09.AssemblyInfo.cs
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\obj\Debug\net9.0\aula09.csproj.CoreCompileInputs.cache
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\obj\Debug\net9.0\aula09.dll
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\obj\Debug\net9.0\refint\aula09.dll
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\obj\Debug\net9.0\aula09.pdb
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\obj\Debug\net9.0\aula09.genruntimeconfig.cache
+E:\Arquivos\codigos\CSharp\csharp\aula09\aula09\obj\Debug\net9.0\ref\aula09.dll

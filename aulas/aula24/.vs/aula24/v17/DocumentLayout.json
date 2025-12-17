@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Arquivos\\codigos\\CSharp\\csharp\\aula24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C48CDEA-8B4D-41EF-8498-4B88457FFEA3}|aula24\\aula24.csproj|e:\\arquivos\\codigos\\csharp\\csharp\\aula24\\aula24\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C48CDEA-8B4D-41EF-8498-4B88457FFEA3}|aula24\\aula24.csproj|solutionrelative:aula24\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C48CDEA-8B4D-41EF-8498-4B88457FFEA3}|aula24\\aula24.csproj|e:\\arquivos\\codigos\\csharp\\csharp\\aula24\\aula24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C48CDEA-8B4D-41EF-8498-4B88457FFEA3}|aula24\\aula24.csproj|solutionrelative:aula24\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 340,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\Arquivos\\codigos\\CSharp\\csharp\\aula24\\aula24\\Person.cs",
+              "RelativeDocumentMoniker": "aula24\\Person.cs",
+              "ToolTip": "E:\\Arquivos\\codigos\\CSharp\\csharp\\aula24\\aula24\\Person.cs",
+              "RelativeToolTip": "aula24\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:02:43.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Arquivos\\codigos\\CSharp\\csharp\\aula24\\aula24\\Program.cs",
+              "RelativeDocumentMoniker": "aula24\\Program.cs",
+              "ToolTip": "E:\\Arquivos\\codigos\\CSharp\\csharp\\aula24\\aula24\\Program.cs",
+              "RelativeToolTip": "aula24\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T15:02:34.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

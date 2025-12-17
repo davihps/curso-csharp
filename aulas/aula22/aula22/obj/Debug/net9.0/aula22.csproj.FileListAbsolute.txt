@@ -1,0 +1,14 @@
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\bin\Debug\net9.0\aula22.exe
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\bin\Debug\net9.0\aula22.deps.json
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\bin\Debug\net9.0\aula22.runtimeconfig.json
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\bin\Debug\net9.0\aula22.dll
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\bin\Debug\net9.0\aula22.pdb
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\obj\Debug\net9.0\aula22.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\obj\Debug\net9.0\aula22.AssemblyInfoInputs.cache
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\obj\Debug\net9.0\aula22.AssemblyInfo.cs
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\obj\Debug\net9.0\aula22.csproj.CoreCompileInputs.cache
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\obj\Debug\net9.0\aula22.dll
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\obj\Debug\net9.0\refint\aula22.dll
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\obj\Debug\net9.0\aula22.pdb
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\obj\Debug\net9.0\aula22.genruntimeconfig.cache
+E:\Arquivos\codigos\CSharp\csharp\aula22\aula22\obj\Debug\net9.0\ref\aula22.dll

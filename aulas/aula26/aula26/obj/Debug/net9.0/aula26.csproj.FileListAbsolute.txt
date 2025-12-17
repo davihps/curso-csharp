@@ -1,0 +1,14 @@
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\bin\Debug\net9.0\aula26.exe
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\bin\Debug\net9.0\aula26.deps.json
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\bin\Debug\net9.0\aula26.runtimeconfig.json
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\bin\Debug\net9.0\aula26.dll
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\bin\Debug\net9.0\aula26.pdb
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\obj\Debug\net9.0\aula26.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\obj\Debug\net9.0\aula26.AssemblyInfoInputs.cache
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\obj\Debug\net9.0\aula26.AssemblyInfo.cs
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\obj\Debug\net9.0\aula26.csproj.CoreCompileInputs.cache
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\obj\Debug\net9.0\aula26.dll
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\obj\Debug\net9.0\refint\aula26.dll
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\obj\Debug\net9.0\aula26.pdb
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\obj\Debug\net9.0\aula26.genruntimeconfig.cache
+E:\Arquivos\codigos\CSharp\csharp\aula26\aula26\obj\Debug\net9.0\ref\aula26.dll
